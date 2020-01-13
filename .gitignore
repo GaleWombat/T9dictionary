@@ -1,0 +1,7 @@
+*.gch
+*.o
+*.x
+T9dict
+projektMichta
+*tar.gz
+*.vscode
